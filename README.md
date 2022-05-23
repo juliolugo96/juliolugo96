@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, it's me, Julio 🎮 👋
 
 <!--
 **juliolugo96/juliolugo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **Competitive Programming** and preparing myself for any technical interview. I want to improve my general skills following this [guideline here](https://github.com/jwasham/coding-interview-university). As this will be part of my daily practice, I'll be uploading code every day here. Please, feel free to reach me anytime.
+
+⚡ Fun fact: I love physics and math 😛 and will be coding some random videogames in the upcoming months!
