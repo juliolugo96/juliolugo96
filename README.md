@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Competitive Programming** and preparing myself for any technical interview. I want to improve my general skills following this [guideline here](https://github.com/jwasham/coding-interview-university). As this will be part of my daily practice, I'll be uploading code every day here. Please, feel free to reach me anytime.
 
 ⚡ Fun fact: I love physics and math 😛 and will be coding some random videogames in the upcoming months!
+[![Julio Lugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliolugo96)](https://github.com/anuraghazra/github-readme-stats)
