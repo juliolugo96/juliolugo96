@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: I love physics and math 😛 and will be coding some random videogames in the upcoming months!
 [![Julio Lugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliolugo96)](https://github.com/anuraghazra/github-readme-stats)
+
+You can follow me on Gitlab too! As I work for Pretty Technical there: [Julio Lugo](https://gitlab.com/juliol1)
